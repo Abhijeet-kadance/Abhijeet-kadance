@@ -1,6 +1,6 @@
 ### Hi there I'm Abhijeet Thorat 👋
 
-# I'm a Full Stack developer and trying to contribute on open source Project 
+# I'm a Full Stack developer and trying to contribute to open source Projects
 
 <!--
 **Abhijeet-kadance/Abhijeet-kadance** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
