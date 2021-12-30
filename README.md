@@ -23,3 +23,13 @@ Here are some ideas to get you started:
 <a title="Medium Profile" href="https://medium.com/@abhijeet.kadance.96"><img alt="Medium Profile" src="https://github.com/sameersyd/sameersyd/blob/master/art/medium.png" width="130" height="45"/></a>
 <a title="Dribbble Profile" href="https://dribbble.com/Abhijeet6003"><img alt="Dribbble Profile" src="https://github.com/sameersyd/sameersyd/blob/master/art/dribbble.png" width="130"/></a>
 <a title="Instagram Profile" href="https://www.instagram.com/_abhijeet_thorat_"><img alt="Instagram Profile" src="https://github.com/sameersyd/sameersyd/blob/master/art/instagram.png" width="130"/></a>
+
+## 📈 GitHub Graph & Stats
+<img src="https://activity-graph.herokuapp.com/graph?username=Abhijeet-kadance&theme=xcode">
+  
+---
+
+<p align="center">
+<img width="49%" src="https://github-readme-stats.vercel.app/api?username=Umesh-01&show_icons=true&theme=tokyonight" />
+<img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=Umesh-01&theme=tokyonight" />
+</p>
