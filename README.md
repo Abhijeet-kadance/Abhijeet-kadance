@@ -17,6 +17,13 @@ Here are some ideas to get you started:
 - 📫 How to reach me: abhijeet.kadance.96@gmail.com...
 - ⚡ Fun fact: I'm a musician and a stand up Comedian tooo...
 
+      __       _______    __    __   __          ___   _______   _______  ___________      ___________  __    __     ______     _______        __  ___________  
+     /""\     |   _  "\  /" |  | "\ |" \        |"  | /"     "| /"     "|("     _   ")    ("     _   ")/" |  | "\   /    " \   /"      \      /""\("     _   ") 
+    /    \    (. |_)  :)(:  (__)  :)||  |       ||  |(: ______)(: ______) )__/  \\__/      )__/  \\__/(:  (__)  :) // ____  \ |:        |    /    \)__/  \\__/  
+   /' /\  \   |:     \/  \/      \/ |:  |       |:  | \/    |   \/    |      \\_ /            \\_ /    \/      \/ /  /    ) :)|_____/   )   /' /\  \  \\_ /     
+  //  __'  \  (|  _  \\  //  __  \\ |.  |    ___|  /  // ___)_  // ___)_     |.  |            |.  |    //  __  \\(: (____/ //  //      /   //  __'  \ |.  |     
+ /   /  \\  \ |: |_)  :)(:  (  )  :)/\  |\  /  :|_/ )(:      "|(:      "|    \:  |            \:  |   (:  (  )  :)\        /  |:  __   \  /   /  \\  \\:  |     
+(___/    \___)(_______/  \__|  |__/(__\_|_)(_______/  \_______) \_______)     \__|             \__|    \__|  |__/  \"_____/   |__|  \___)(___/    \___)\__| 
 
 <a title="Linkedin Profile" href="https://www.linkedin.com/in/abhijeet-thorat/"><img alt="LinkedIn Profile" src="https://github.com/sameersyd/sameersyd/blob/master/art/linkedin.png" width="130"/></a>
 <a title="Twitter Profile" href="https://twitter.com/abhijeet6003"><img alt="Twitter Profile" src="https://github.com/sameersyd/sameersyd/blob/master/art/twitter.png" width="130"/></a>
