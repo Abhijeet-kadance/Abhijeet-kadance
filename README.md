@@ -18,13 +18,12 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: I'm a musician and a stand up Comedian tooo...
 
  
-      ____  _    _ _____     _ ______ ______ _______   _______ _    _  ____  _____         _______ 
-     /\   |  _ \| |  | |_   _|   | |  ____|  ____|__   __| |__   __| |  | |/ __ \|  __ \     /\|__   __|
-    /  \  | |_) | |__| | | |     | | |__  | |__     | |       | |  | |__| | |  | | |__) |   /  \  | |   
-   / /\ \ |  _ <|  __  | | | _   | |  __| |  __|    | |       | |  |  __  | |  | |  _  /   / /\ \ | |   
-  / ____ \| |_) | |  | |_| || |__| | |____| |____   | |       | |  | |  | | |__| | | \ \  / ____ \| |   
- /_/    \_\____/|_|  |_|_____\____/|______|______|  |_|       |_|  |_|  |_|\____/|_|  \_\/_/    \_\_|   
-                                                                                                      
+          ____  _    _ _____     _ ______ ______ _______ 
+     /\   |  _ \| |  | |_   _|   | |  ____|  ____|__   __|
+    /  \  | |_) | |__| | | |     | | |__  | |__     | |   
+   / /\ \ |  _ <|  __  | | | _   | |  __| |  __|    | |   
+  / ____ \| |_) | |  | |_| || |__| | |____| |____   | |   
+ /_/    \_\____/|_|  |_|_____\____/|______|______|  |_|   
 
 <a title="Linkedin Profile" href="https://www.linkedin.com/in/abhijeet-thorat/"><img alt="LinkedIn Profile" src="https://github.com/sameersyd/sameersyd/blob/master/art/linkedin.png" width="130"/></a>
 <a title="Twitter Profile" href="https://twitter.com/abhijeet6003"><img alt="Twitter Profile" src="https://github.com/sameersyd/sameersyd/blob/master/art/twitter.png" width="130"/></a>
